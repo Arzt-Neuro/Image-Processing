@@ -1,5 +1,5 @@
 # Image
-Medizinische Bildverarbeitung
+Medizinische Bildverarbeitung und Maschinelles Lernen medizinischer Bilder
 ## Einfürung Kurz
 Grüßen Sie! Es gibt ein Pakete für Vorhersage der Hirnblutung und Hämatomausbreitung.
 ## Funktionen
