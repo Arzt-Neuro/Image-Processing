@@ -16,3 +16,16 @@ Es gibt fünf basic Pakete im root Directory, und drei Unterpakete
 #### Utils
 
 ### Sekundäres Unterpakete
+#### Auswertung
+##### Auswertung der Falles
+Nicht verfügbar
+##### Qualitaet Kontrolle
+Automatische beschädigt Bild löschen.
+#### Bildlern
+Nicht verfügbar
+#### Datei
+##### ICH
+
+##### Image
+
+##### Text
